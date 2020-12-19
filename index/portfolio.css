@@ -1,0 +1,171 @@
+.logo{
+	margin: 0 auto;
+	display:block;
+}
+.intro{
+	padding-left:-100px;
+	padding-top:50px;
+	display:block;
+}
+.graphic{
+	display:inline;
+	padding-top:10px;
+	margin:0 auto;
+	display:block;
+}
+.img1{
+	padding-right:60px;
+}
+.img2{
+	padding-right:60px;
+}
+.img3{
+	padding-right:60px;
+}
+.img4{
+	
+}
+.mepic{
+	padding-bottom:;
+	margin: 0 auto;
+	display:block;
+}
+body{
+	background-color: ;
+	color: ;
+	font-family: ;
+	margin: 10px 0;
+}
+header{
+	background-color:  ;
+	color: ;
+	font-family: ;
+}
+
+nav ul{
+	text-align: center;
+	padding:8px;
+}
+nav li{
+	display:inline;
+	background-color:#CC9966;
+	padding:8px 10px;
+	border-radius: 3px;
+}
+nav li:hover{
+	background-color: #CC9966;
+}
+nav a{
+	text-decoration:none;
+}
+nav a:link{
+	 color: #333333;
+}
+nav a:visited {
+	color:#333333;
+}
+nav a:hover {
+	color:black;
+}
+nav a:active {
+	color:black;
+}
+nav{
+	font-weight: ;
+	padding: 8px 10px;
+	background-color:tan;
+	text-align:center;
+	word-spacing: 30px;
+	font-family:aphrodite-serif;
+
+}
+
+
+main{
+	text-align:left;
+	background-color:#FFCC99;
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 75px;
+	padding-bottom: 35px;
+	color:#333333;
+}	
+
+footer{
+	font-size: ;
+	font-style: ;
+	text-align: center;
+	color:black;
+	background-color:tan;
+	padding:5px;
+}
+h1{
+	line-height:20px;
+	font-family:aphrodite-serif;
+	font-size:40px;
+	font-weight:normal;
+	text-align:center;
+	
+}
+h2{
+	color: ;
+	font-family:aphrodite-script;
+	padding-top:15px;
+	font-size:40px;
+	font-weight:normal;
+
+	
+}
+h3{
+	color: ;
+	font-family:aphrodite-script;
+	font-size:30px;
+	font-weight:normal;
+}
+h4{
+	font-family: minion-display;
+	font-size:16px;
+	font-weight: normal;
+	line-height: 5px;
+	display:block;
+}
+dt{
+	color: ;
+	font-weight: ;
+}
+p{
+	font-family:minion-display;
+}
+
+
+
+/*   CSS for tablets  */
+@media only screen and (max-width: 1024px) {
+	h1{
+		font-size: 1.8em;
+	}	
+}
+/*   CSS for smartphones  */
+@media only screen and (max-width: 768px) {
+	h1{
+		font-size: 1.5em;
+	}
+}
+
+
+
+@media only screen and (max-width: 400px) {
+	.desktop{
+	display:none;
+	}
+	.mobile{
+	display:block;
+	}
+}	
+
+
+
+
+
+
+
